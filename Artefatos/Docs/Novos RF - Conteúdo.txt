@@ -1,0 +1,31 @@
+RF13 - PDF (Relatório)
+	- Dados do cliente;
+	- Data;
+	- Logo da empresa;
+	- Planilha do orçamento (serviço, quantidade, unidade, preço real);
+	- Valor orçado por setor (RF20);
+	- Valor total;
+	- Campo de texto observação (para escrita a mão).
+
+	Obs.: PDF não deve conter os serviços retirados por adendo
+
+
+
+RF18 - Financeiro (Dashboard)
+	- Tabela com todas as transações da empresa;
+	- Total de gastos da empresa;
+	- Total de ganhos da empresa;
+	- Valor bruto: lucro/deficit total da empresa;
+	- Percentual: lucro/deficit total da empresa.
+
+
+
+RF19 -  Dados financeiros do orçamento
+	- Margem bruta de lucro/deficit por orçamento;
+	- Margem percentual de lucro/deficit por orçamento.
+
+
+
+RF20 - Valor total por setor orçado
+	- Subtotal orçado por setor do orçamento.
+
